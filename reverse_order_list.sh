@@ -1,0 +1,1 @@
+sort -r lista.txt
