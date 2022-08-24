@@ -1,0 +1,1 @@
+grep "amarela" test.txt -A 2 -B 2
