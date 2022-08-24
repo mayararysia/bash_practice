@@ -2,7 +2,7 @@
 
 #fisrt example
 
-cat -n lista.txt | sed -n '26,35 p'
+cat -n lista.txt | sed -n '26,35 p' | nl
 
 #second example
 
