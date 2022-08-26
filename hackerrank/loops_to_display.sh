@@ -6,7 +6,12 @@
 ## .
 ## 99
 
+echo -e "\nFirst Mode:\n"
 
 for i in {1..99..2}; do
     echo $i
 done
+
+echo -e "\nSecond Mode:\n"
+
+seq 1 2 99
