@@ -7,7 +7,7 @@
 #awk '{print $2}' lista.txt | sort
 #cat lista.txt| awk "{ print } "
 
-#sort -c lista.txt #verifica se o arquivo já está organizado
+sort -c lista.txt #verifica se o arquivo já está organizado
 
 # head -n 1187 lista.txt | tail -n 1181 ## aqui removeu o cabeçalho para exibir apenas a lista de produtos
 # cut -c 8-62 ## começa do caracter 8 até o 62

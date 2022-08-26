@@ -1,0 +1,3 @@
+#mesg [y/n]
+
+mesg
